@@ -1,0 +1,119 @@
+---
+title: "More Home Cooking Recipes"
+date: "2021-09-09"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## Intro
+
+This is my collection of recipes gathered during the COVID-19 Pandemic.
+This collection focuses on recipes discussed in Laurie Colwin's *More
+Home Cooking*.
+
+#### Succotash
+
+**Vegetables**
+
+-   1 small minced onion
+-   1 minced garlic clove
+-   1 small red bell peppper
+-   10-ounce package of frozen lima beans
+-   10-ounces of corn (fresh or frozen)
+-   1/4 pound of okra (trimmed and cut up)
+
+**Spices**
+
+-   1/4 teaspoon ground ginger
+-   salt and pepper
+
+**Liquid**
+
+-   1.25 cups of water
+
+**Directions**
+
+Add a little olive oil to pan and sweat onion, garlic, bell pepper. Salt
+and pepper to taste. Add ginger, lima beans, corn and okra with water.
+Simmer for about 10 minutes covered, then uncovered until most of the
+liquid evaporates.
+
+#### Brownies
+
+Melt the following:
+
+-   1 stick of butter
+-   2 squares of unsweetened chocolate
+
+Stir in and beat well:
+
+-   1 cup of sugar
+-   2 eggs
+-   1/2 teaspoon vanilla
+
+Add:
+
+-   1/4 cup of flour
+-   1/2 teaspoon salt
+-   1 cup of chopped walnuts
+
+Bake in buttered and floured pan (8 inch) for 40 minutes at 325.
+
+#### Cranberry Pie
+
+-   2 cups of chopped cranberries
+-   1/2 cup of chopped walnuts
+
+Place above with 1/2 cup of sugar in a pie plate or springform pan.
+
+*Mix*
+
+-   2 eggs
+-   3/4 cup of melted butter
+-   1 cup of sugar
+-   1 cup of flour
+-   1 teaspoon of almond extract
+
+Pour mixture over prepared pan. Bake for 40 minutes at 350.
+
+#### Rosemary Walnuts
+
+Melt:
+
+-   2.5 tablespoons of butter
+-   2 teaspoons of rosemary
+-   1 teaspoon of salt
+-   1/2 teaspoon cayenne
+
+Pour over and toss with:
+
+-   2 cups of walnuts
+
+Bake at 350 on cookie sheet for 10 minutes.
+
+### Asian Recipes
+
+#### Marinated Tofu
+
+-   1 tablespoon Asian sesame oil
+-   ¼ cup soy sauce
+-   2 tablespoons mirin (sweet Japanese rice wine)
+-   1 tablespoon rice wine vinegar
+-   1 tablespoon minced or grated fresh ginger
+-   1 teaspoon sugar
+-   ¾ pound tofu (to taste)
+
+Mix and marinate.
+
+#### Ginger and Green Onions
+
+-   1 ¼ cups minced scallions, both green and white parts (from a
+    4-ounce bundle)
+-   2 tablespoons minced or finely grated fresh ginger
+-   Neutral oil (such as grapeseed, safflower, or sunflower)
+-   ¼ cup sherry or rice wine vinegar
+-   1/2 teaspoon Fine sea salt
+
+Mix everything together and serve with rice bowl / bibimbop.
